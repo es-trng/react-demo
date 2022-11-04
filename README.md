@@ -1,3 +1,13 @@
+# Getting Started with this code
+Clone the code locally using your favorite Git tool like SourceTree etc. 
+OR
+Run the following command in Windows command prompt
+## `git clone https://github.com/es-trng/react-demo.git`
+
+and run the applicaion using 
+## `npm start`
+.
+.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
